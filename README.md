@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osahon</h1>
 <h3 align="center">A Full-Stack developer from Lagos,Nigeria.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edojonsnow" alt="edojonsnow" /></a> </p>
+
 
 - 🔭 I’m currently working on [Ecom-Backend](https://github.com/Edojonsnow/Ecom-Backend/tree/main/ecom-backend)
 
@@ -31,4 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edojonsnow&show_icons=true&locale=en" alt="edojonsnow" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edojonsnow&" alt="edojonsnow" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edojonsnow" alt="edojonsnow" /></a> </p>
 
