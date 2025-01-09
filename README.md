@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working on [Ecom-Backend](https://github.com/Edojonsnow/Ecom-Backend/tree/main/ecom-backend)
+- 🔭 I’m currently working on [snowycloset](https://github.com/Edojonsnow/Ecom-Backend/tree/main/ecom-backend)
 
 - 🌱 I’m currently learning **AWS,Solidity**
 
-- 👨‍💻 All of my projects are available at [https://edojonsnow.vercel.app/](https://edojonsnow.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://edojonsnow.vercel.app/](https://alexanderoronsaye.vercel.app/)
 
 - 💬 Ask me about **React,NextJs,NodeJs,**
 
