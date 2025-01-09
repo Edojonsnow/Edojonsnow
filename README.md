@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS,Solidity**
 
-- 👨‍💻 All of my projects are available at [https://edojonsnow.vercel.app/](https://alexanderoronsaye.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://alexanderoronsaye.vercel.app/](https://alexanderoronsaye.vercel.app/)
 
 - 💬 Ask me about **React,NextJs,NodeJs,**
 
