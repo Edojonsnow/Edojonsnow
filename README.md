@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [snowycloset](https://github.com/Edojonsnow/Ecom-Backend/tree/main/ecom-backend)
 
-- 🌱 I’m currently learning **AWS,Solidity**
+- 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://alexanderoronsaye.vercel.app/](https://alexanderoronsaye.vercel.app/)
+- 👨‍💻 View my portfolio [https://alexanderoronsaye.vercel.app/](https://edojonsnow.com/)
 
-- 💬 Ask me about **React,NextJs,NodeJs,**
+- 💬 Ask me about **React,NextJs,NodeJs, Python,Golang,AWS**
 
 - 📫 How to reach me **osahonoronsaye@yahoo.com**
 
