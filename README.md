@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [snowycloset](https://github.com/Edojonsnow/Ecom-Backend/tree/main/ecom-backend)
+- 🔭 I’m currently working on [snowycloset](https://github.com/Edojonsnow/tabmate-mobile)
 
 - 🌱 I’m currently learning **AI/ML**
 
