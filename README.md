@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 View my portfolio [https://alexanderoronsaye.vercel.app/](https://edojonsnow.com/)
+- 👨‍💻 View my portfolio [https://edojonsnow.com/](https://edojonsnow.com/)
 
 - 💬 Ask me about **React,NextJs,NodeJs, Python,Golang,AWS**
 
