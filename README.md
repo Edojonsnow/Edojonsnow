@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [snowycloset](https://github.com/Edojonsnow/tabmate-mobile)
+- 🔭 I’m currently working on [Mind Palace](https://github.com/Edojonsnow/Mind-Palace-App)
 
 - 🌱 I’m currently learning **AI/ML**
 
